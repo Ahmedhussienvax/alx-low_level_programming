@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point
- * description: prints last digits
+ * main - entry point to insert digits and random numbers
+ * description: prints last digit of a certain number
  *return: o (success)
 */
 int main(void)
