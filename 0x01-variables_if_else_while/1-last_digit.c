@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- *main - entry point
- *description: prints last digit of a certain number
- *return: o (success)
+ * main - entry point
+ * description: prints the value of n status:
+ *		greater than, equal, or less than zero
+ * return: o (success)
 */
 int main(void)
 {
