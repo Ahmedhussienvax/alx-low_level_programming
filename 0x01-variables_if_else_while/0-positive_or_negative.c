@@ -5,6 +5,7 @@
 /**
  * main -entry point
  * descriptiom : positive or negative
+ * Return: 0 (success)
 */
 int main(void)
 {
