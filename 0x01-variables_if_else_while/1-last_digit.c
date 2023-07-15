@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * Main - entry point
+ * main - Entry point
  * Description: prints the value of n status:
  *		greater than, equal, or less than 6.
- * Return: always 0 (Success)
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
